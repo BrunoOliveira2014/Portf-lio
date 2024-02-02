@@ -153,7 +153,7 @@
             <div class="interface">
                 <h2 class="title">MEU <span>PORTFÓLIO.</span></h2>
                 <div class="flex">
-                    <div class="img-port" style="background-image: url(images/imagem.png);">
+                    <div class="img-port" style="background-image: url(#);">
                         <div class="overlay">Projeto 1</div>
                     </div>
                     <div class="img-port"  style="background-image: url(#);">
